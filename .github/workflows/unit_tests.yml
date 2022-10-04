@@ -1,10 +1,10 @@
-Name: Unit tests
+name: Unit tests
 
 on:
   push:
     branches: [main]
   pull_request:
-    brances: [main]
+    branches: [main]
 
 jobs:
   unit_tests:
